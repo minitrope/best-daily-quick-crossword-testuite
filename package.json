@@ -1,0 +1,14 @@
+{
+  "name": "best-daily-quick-crossword-tests",
+  "version": "1.0.0",
+  "description": "Technical test assignment for Arkadium",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Romain Gauthier",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
